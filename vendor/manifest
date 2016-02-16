@@ -4,7 +4,6 @@
 		{
 			"importpath": "github.com/skizzehq/goskizze",
 			"repository": "http://github.com/skizzehq/goskizze",
-			"revision": "952ec2aab410d89ecb11a78c7e4394b2bd0c9a7f",
 			"branch": "master"
 		},
 		{
